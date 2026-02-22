@@ -1,0 +1,12 @@
+lib/components/glass_nav_bar.dart
+lib/screens/community_feed_screen.dart
+lib/screens/donor_wizard_screen.dart
+lib/screens/impact_map_screen.dart
+lib/screens/landing_screen.dart
+lib/screens/login_screen.dart
+lib/screens/register_screen.dart
+lib/screens/rider_swipe_screen.dart
+lib/widgets/dashboards/admin_dashboard.dart
+lib/widgets/dashboards/donor_dashboard.dart
+lib/widgets/dashboards/ngo_dashboard.dart
+lib/widgets/dashboards/rider_dashboard.dart
