@@ -1,4 +1,4 @@
-# ResQ-AI: Smart Food Rescue Ecosystem 🍎🚛
+# ResQ-AI: Zero Waste Network 🍎🚛
 
 ResQ-AI is a full-stack, AI-powered platform designed to eliminate food waste by bridging the gap between donors (corporates, restaurants, individuals) and those in need (NGOs), facilitated by a dedicated network of volunteer riders.
 
