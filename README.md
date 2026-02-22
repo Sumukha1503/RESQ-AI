@@ -97,5 +97,5 @@ graph TD
 - Formula: `Meals * 0.5 * 2.5` = Total CO₂ Prevented.
 
 ---
-Developed with ❤️ by the ResQ-AI team.
+Developed Techtonics team.
 # RESQ-AI
